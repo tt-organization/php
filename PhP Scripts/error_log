@@ -1,0 +1,433 @@
+[24-Apr-2019 20:59:06 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:01:38 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:08:58 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:13:28 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:15:04 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:15:11 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:19:00 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:19:17 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:19:21 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:20:29 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:20:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/mattgoo1/public_html/getToken.php on line 13
+[24-Apr-2019 21:21:01 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:22:15 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:31:42 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:31:42 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 21:31:53 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:31:54 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 21:32:35 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:32:35 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 21:40:50 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:40:51 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 21:45:42 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:45:43 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 21:48:18 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:50:56 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:55:20 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:55:20 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 21:55:46 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 21:55:46 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 22:00:58 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:00:58 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 22:04:58 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:07:05 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:07:05 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 22:08:45 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:14:11 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:14:11 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[24-Apr-2019 22:16:46 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:16:46 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, array given in /home/mattgoo1/public_html/checkToken.php on line 23
+[24-Apr-2019 22:18:20 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[24-Apr-2019 22:18:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[24-Apr-2019 22:18:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/removeItem.php on line 16
+[24-Apr-2019 22:18:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/removeItem.php on line 17
+[24-Apr-2019 22:19:13 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[24-Apr-2019 22:19:13 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[24-Apr-2019 22:19:13 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/removeItem.php on line 16
+[24-Apr-2019 22:19:13 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/removeItem.php on line 17
+[24-Apr-2019 22:26:53 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:26:53 UTC] PHP Notice:  Undefined variable: token in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:26:53 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, array given in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:27:06 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:27:06 UTC] PHP Notice:  Undefined variable: token in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:27:06 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, array given in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:30:33 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:30:34 UTC] PHP Notice:  Undefined variable: mysqli_fetch_row in /home/mattgoo1/public_html/checkToken.php on line 24
+[24-Apr-2019 22:30:34 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/mattgoo1/public_html/checkToken.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/checkToken.php on line 24
+[24-Apr-2019 22:30:41 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:30:41 UTC] PHP Notice:  Undefined variable: token in /home/mattgoo1/public_html/checkToken1.php on line 25
+[24-Apr-2019 22:30:41 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, array given in /home/mattgoo1/public_html/checkToken1.php on line 25
+[24-Apr-2019 22:32:02 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:32:02 UTC] PHP Notice:  Undefined variable: token in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:32:02 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, array given in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:32:13 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:32:13 UTC] PHP Notice:  Undefined variable: token in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:32:13 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, array given in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:33:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mattgoo1/public_html/checkToken1.php on line 25
+[24-Apr-2019 22:33:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mattgoo1/public_html/checkToken1.php on line 25
+[24-Apr-2019 22:33:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mattgoo1/public_html/checkToken1.php on line 25
+[24-Apr-2019 22:34:16 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/mattgoo1/public_html/checkToken1.php on line 25
+[24-Apr-2019 22:34:26 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/mattgoo1/public_html/checkToken1.php on line 25
+[24-Apr-2019 22:35:06 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:35:06 UTC] PHP Notice:  Undefined variable: token in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:36:01 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:36:01 UTC] PHP Notice:  Undefined variable: token in /home/mattgoo1/public_html/checkToken1.php on line 24
+[24-Apr-2019 22:37:55 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[24-Apr-2019 22:37:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[24-Apr-2019 22:37:55 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/removeItem.php on line 16
+[24-Apr-2019 22:37:55 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/removeItem.php on line 17
+[24-Apr-2019 22:38:17 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:39:06 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:39:06 UTC] PHP Notice:  Undefined variable: mysqli_fetch_row in /home/mattgoo1/public_html/checkToken.php on line 24
+[24-Apr-2019 22:39:06 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/mattgoo1/public_html/checkToken.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/checkToken.php on line 24
+[24-Apr-2019 22:39:15 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/checkToken1.php on line 14
+[24-Apr-2019 22:40:06 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:49:50 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:50:10 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 22:59:05 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[24-Apr-2019 22:59:05 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[24-Apr-2019 22:59:44 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:03:52 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:05:35 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[24-Apr-2019 23:05:35 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[24-Apr-2019 23:13:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/truckList.php on line 11
+[24-Apr-2019 23:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on boolean in /home/mattgoo1/public_html/truckList.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/truckList.php on line 15
+[24-Apr-2019 23:13:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/truckList.php on line 11
+[24-Apr-2019 23:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on boolean in /home/mattgoo1/public_html/truckList.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/truckList.php on line 15
+[24-Apr-2019 23:14:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/truckList.php on line 11
+[24-Apr-2019 23:14:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on boolean in /home/mattgoo1/public_html/truckList.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/truckList.php on line 15
+[24-Apr-2019 23:16:35 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:19:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/truckList.php on line 11
+[24-Apr-2019 23:19:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on boolean in /home/mattgoo1/public_html/truckList.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/truckList.php on line 15
+[24-Apr-2019 23:19:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/truckList.php on line 11
+[24-Apr-2019 23:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on boolean in /home/mattgoo1/public_html/truckList.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/truckList.php on line 15
+[24-Apr-2019 23:19:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/truckList.php on line 11
+[24-Apr-2019 23:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on boolean in /home/mattgoo1/public_html/truckList.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/truckList.php on line 15
+[24-Apr-2019 23:22:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/truckList.php on line 11
+[24-Apr-2019 23:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free_result() on boolean in /home/mattgoo1/public_html/truckList.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/truckList.php on line 15
+[24-Apr-2019 23:27:53 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:28:03 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:38:09 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:41:43 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:44:32 UTC] PHP Notice:  Undefined property: mysqli_stmt::$mysqli_num_rows in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[24-Apr-2019 23:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[24-Apr-2019 23:46:22 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 14
+[24-Apr-2019 23:46:22 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 15
+[24-Apr-2019 23:46:22 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 16
+[24-Apr-2019 23:46:22 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 17
+[24-Apr-2019 23:46:22 UTC] PHP Notice:  Undefined property: mysqli_stmt::$mysqli_num_rows in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[24-Apr-2019 23:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[24-Apr-2019 23:46:36 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:48:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 14
+[24-Apr-2019 23:48:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 15
+[24-Apr-2019 23:48:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 16
+[24-Apr-2019 23:48:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/sendMenuItem.php on line 17
+[24-Apr-2019 23:48:40 UTC] PHP Notice:  Undefined property: mysqli_stmt::$mysqli_num_rows in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[24-Apr-2019 23:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[24-Apr-2019 23:48:58 UTC] PHP Notice:  Undefined property: mysqli_stmt::$mysqli_num_rows in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[24-Apr-2019 23:48:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[24-Apr-2019 23:49:57 UTC] PHP Notice:  Undefined property: mysqli_stmt::$mysqli_num_rows in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[24-Apr-2019 23:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[24-Apr-2019 23:53:53 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/mattgoo1/public_html/sendMenuItem.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[24-Apr-2019 23:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[24-Apr-2019 23:58:28 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[24-Apr-2019 23:59:08 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 00:00:41 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 00:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[25-Apr-2019 00:15:33 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 00:16:00 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 00:16:00 UTC] PHP Notice:  Undefined property: stdClass::$access_token in /home/mattgoo1/public_html/storeToken.php on line 16
+[25-Apr-2019 00:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[25-Apr-2019 00:23:37 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 00:24:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 31
+[25-Apr-2019 00:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 31
+[25-Apr-2019 00:32:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 31
+[25-Apr-2019 00:38:06 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 00:42:09 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 00:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 71
+[25-Apr-2019 00:55:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 00:57:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 00:58:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 00:59:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 00:59:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 01:05:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mattgoo1/public_html/sendMenuItem.php on line 31
+[25-Apr-2019 01:06:22 UTC] PHP Warning:  Unterminated comment starting line 34 in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:06:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mattgoo1/public_html/sendMenuItem.php on line 87
+[25-Apr-2019 01:07:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[25-Apr-2019 01:07:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[25-Apr-2019 01:13:09 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 01:13:09 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:13:09 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:13:09 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:13:09 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:13:09 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 36
+[25-Apr-2019 01:13:30 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 01:13:30 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:13:30 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:13:30 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:13:30 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:13:30 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 36
+[25-Apr-2019 01:13:34 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 24
+[25-Apr-2019 01:13:34 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:13:34 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:13:34 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:13:34 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:13:34 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 36
+[25-Apr-2019 01:15:50 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:15:50 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:15:50 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:15:50 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:15:50 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:16:02 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:16:02 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:17:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mattgoo1/public_html/sendMenuItem.php on line 27
+[25-Apr-2019 01:17:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mattgoo1/public_html/sendMenuItem.php on line 27
+[25-Apr-2019 01:17:56 UTC] PHP Notice:  Undefined variable: getId in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:17:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:17:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:17:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:17:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:17:56 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:17:56 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 35
+[25-Apr-2019 01:18:30 UTC] PHP Notice:  Undefined variable: getId in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:18:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:18:30 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:18:30 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:18:30 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:18:30 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:18:41 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:18:41 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:18:41 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:18:41 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:18:57 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:18:57 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:18:57 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:18:57 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:19:52 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:19:52 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:19:52 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:19:52 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:20:05 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:20:05 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:20:05 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:20:05 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:20:21 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:20:21 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:20:21 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:20:21 UTC] PHP Notice:  Undefined variable: test in /home/mattgoo1/public_html/sendMenuItem.php on line 34
+[25-Apr-2019 01:21:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 31
+[25-Apr-2019 01:21:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 32
+[25-Apr-2019 01:21:04 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/mattgoo1/public_html/sendMenuItem.php on line 33
+[25-Apr-2019 01:21:34 UTC] PHP Notice:  Undefined variable: getId in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:21:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, object given in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:21:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, object given in /home/mattgoo1/public_html/sendMenuItem.php on line 26
+[25-Apr-2019 01:24:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendMenuItem.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendMenuItem.php on line 30
+[25-Apr-2019 01:32:26 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 44
+[25-Apr-2019 01:35:34 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 02:07:37 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 02:07:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 02:07:38 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 02:07:38 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 02:07:41 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 02:07:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 02:07:42 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 02:07:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 02:42:23 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 02:43:33 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 02:54:08 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 02:54:48 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 02:54:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 02:54:48 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/mattgoo1/public_html/removeItem.php on line 16
+[25-Apr-2019 03:12:18 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 03:29:00 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 04:06:52 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 04:08:09 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 04:08:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 04:08:09 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/mattgoo1/public_html/removeItem.php on line 16
+[25-Apr-2019 04:12:03 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 04:14:39 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 04:14:47 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 04:15:19 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 45
+[25-Apr-2019 04:15:32 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 04:15:32 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 04:19:24 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 04:20:42 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:20:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 04:27:10 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 04:27:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/getTruckInfo.php on line 11
+[25-Apr-2019 04:27:51 UTC] PHP Notice:  Trying to get property of non-object in /home/mattgoo1/public_html/getTruckInfo.php on line 11
+[25-Apr-2019 04:29:05 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 04:29:20 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:29:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 04:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendTruck.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendTruck.php on line 40
+[25-Apr-2019 04:34:09 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 04:34:30 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:34:30 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 04:35:47 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:35:47 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 04:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendTruck.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendTruck.php on line 41
+[25-Apr-2019 04:43:37 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 04:44:07 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:44:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 04:47:11 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 04:47:30 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:47:30 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 04:49:42 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 04:50:01 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:50:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 04:50:37 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 04:50:53 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 04:50:53 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 05:02:49 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 05:07:54 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 05:08:16 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 05:10:02 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 05:17:38 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 05:18:06 UTC] PHP Notice:  Undefined variable: result1 in /home/mattgoo1/public_html/updateHours.php on line 26
+[25-Apr-2019 05:27:56 UTC] PHP Notice:  Undefined variable: result2 in /home/mattgoo1/public_html/updateHours.php on line 26
+[25-Apr-2019 05:56:31 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 06:12:47 UTC] PHP Notice:  Undefined variable: result1 in /home/mattgoo1/public_html/updateHours.php on line 91
+[25-Apr-2019 06:26:30 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 06:27:25 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 06:27:25 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 06:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendTruck.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendTruck.php on line 41
+[25-Apr-2019 06:28:48 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 06:41:59 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 06:46:51 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 06:57:48 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 07:01:10 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 07:07:11 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 07:07:56 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 07:07:56 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 07:10:44 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 07:10:56 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 07:10:56 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 07:15:06 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 07:15:18 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 07:15:18 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 07:20:15 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 07:20:27 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 07:20:27 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 13:15:59 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 17:28:12 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 17:28:26 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 17:28:26 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 17:28:57 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 17:42:06 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 17:42:28 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 17:42:28 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 17:42:59 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 45
+[25-Apr-2019 17:45:42 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 17:45:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 17:53:36 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 17:53:50 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 17:53:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 17:54:26 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 45
+[25-Apr-2019 17:54:46 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 17:54:46 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 18:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/mattgoo1/public_html/sendLocation.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mattgoo1/public_html/sendLocation.php on line 20
+[25-Apr-2019 18:09:13 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 45
+[25-Apr-2019 18:12:22 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 18:12:39 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 18:12:56 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 18:12:56 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 18:15:28 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 18:15:48 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 18:15:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 18:17:10 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 18:21:39 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/mattgoo1/public_html/sendMenuItem.php on line 45
+[25-Apr-2019 18:25:44 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/removeItem.php on line 3
+[25-Apr-2019 18:25:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/removeItem.php on line 5
+[25-Apr-2019 18:49:26 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/sendAccount.php on line 36
+[25-Apr-2019 18:49:41 UTC] PHP Warning:  fopen(/log.txt): failed to open stream: Permission denied in /home/mattgoo1/public_html/sendTruck.php on line 3
+[25-Apr-2019 18:49:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/mattgoo1/public_html/sendTruck.php on line 5
+[25-Apr-2019 19:12:45 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 19:13:33 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 19:18:56 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
+[25-Apr-2019 19:19:05 UTC] PHP Deprecated:  crypt(): Supplied salt is not valid for DES. Possible bug in provided salt format. in /home/mattgoo1/public_html/login.php on line 36
